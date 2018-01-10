@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { ScrollView } from 'react-native';
 
-import Header from 'components/header';
 import Card from 'components/card';
+import Header from './components/header';
 
 import styles from './styles';
 
