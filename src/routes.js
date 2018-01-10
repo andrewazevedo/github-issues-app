@@ -1,6 +1,6 @@
 import { StackNavigator } from 'react-navigation';
 import Repositories from './pages/repos';
-import RepositoriesIssues from './pages/repos_issues';
+import RepositoriesIssues from './pages/issues';
 
 const Navigation = StackNavigator({
   repos: { screen: Repositories },
